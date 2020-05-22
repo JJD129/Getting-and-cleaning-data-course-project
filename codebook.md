@@ -19,7 +19,9 @@ f-Frequency
 XYZ - each 3-axial signal in the X, Y and Z directions
 
 tBodyAcc-XYZ
+
 tGravityAcc-XYZ
+
 tBodyAccJerk-XYZ
 tBodyGyro-XYZ
 tBodyGyroJerk-XYZ
