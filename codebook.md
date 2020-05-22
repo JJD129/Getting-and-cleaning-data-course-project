@@ -2,8 +2,18 @@
 
 This is a list of variables taken from the features_info.txt and readme.txt
 
+# Identifiers 
 subject - The ID of the test subject
-activity - The type of activity performed when the corresponding measurements were taken
+
+activity - The type of activity performed when the corresponding measurements were 
+
+taken
+
+t-Time
+
+f-Frequency
+
+XYZ - each 3-axial signal in the X, Y and Z directions
 
 # Activity Labels
 
@@ -20,7 +30,9 @@ STANDING (value 5): subject was standing during the test
 LAYING (value 6): subject was laying down during the test
 
 t-Time
+
 f-Frequency
+
 XYZ - each 3-axial signal in the X, Y and Z directions
 
 # Measurements
@@ -28,19 +40,35 @@ XYZ - each 3-axial signal in the X, Y and Z directions
 The mean and standard deviation is taken of the below variables:
 
 tBodyAcc-XYZ
+
 tGravityAcc-XYZ
+
 tBodyAccJerk-XYZ
+
 tBodyGyro-XYZ
+
 tBodyGyroJerk-XYZ
+
 tBodyAccMag
+
 tGravityAccMag
+
 tBodyAccJerkMag
+
 tBodyGyroMag
+
 tBodyGyroJerkMag
+
 fBodyAcc-XYZ
+
 fBodyAccJerk-XYZ
+
 fBodyGyro-XYZ
+
 fBodyAccMag
+
 fBodyAccJerkMag
+
 fBodyGyroMag
+
 fBodyGyroJerkMag
